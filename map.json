@@ -1417,8 +1417,17 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":6,
          "firstgid":5226,
-         "source":"hallow_fadi.tsx"
+         "image":"hallow_fadi.png",
+         "imageheight":96,
+         "imagewidth":192,
+         "margin":0,
+         "name":"hallow_fadi",
+         "spacing":0,
+         "tilecount":18,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
